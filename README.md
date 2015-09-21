@@ -1,2 +1,3 @@
 # stat628
-Data Science Practicum
+Data Science Practicum  
+See [Syllabus.Rmd](Syllabus.Rmd) and [Spring.Rmd](Spring.Rmd) or Summer.Rmd for details.
