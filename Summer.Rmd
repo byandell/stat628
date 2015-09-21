@@ -23,5 +23,5 @@ In an expanded Summer 3-credit version, students will work to get the attention 
 3. Develop realistic budget of time and resources for a partially formed data project
 
 **Weekly Schedule:**
-Each week will concern a different complex data project. In the case of a very complex big data project for the entire course, each week will focus on different aspect of the project. Meetings will include when possible visits by collaborators knowledgeable with the problem.
+Students will work in teams. Each week will concern a different complex data project. In the case of a very complex big data project for the entire course, each week will focus on different aspect of the project. Meetings will include when possible visits by collaborators knowledgeable with the problem.
 In each week, a team of students are expected to develop a plan during the first day, refine plan and share with each other initial graphics and results on second day, and finalize approach and plan for presentation on third day. Fourth day will be formal presentation of report, both written and oral, with critical feedback by peers, instructor and (when possible) collaborators. Fourth day will also involve recap of key points learned by each team member.
