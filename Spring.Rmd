@@ -1,0 +1,28 @@
+---
+##title: "Spring"
+##author: "Brian S Yandell"
+##date: "September 21, 2015"
+output: html_document
+---
+
+**Spring Schedule**  
+Statistics 628: Data Science Practicum  
+Spring 2016 (2 cr)  
+Class meets 1.5 hours per week  
+Office Hours: Immediately after class  
+
+
+**Course Content:**
+Gain experience with statistical theory and methods through data case studies. Students will be able to
+
+* connect methods concepts to analysis tools for a range of modern statistical methods, especially linear models
+* understand how theory informs analysis choices, both in terms of experimental design and large sample behavior of statistical instruments.  
+
+**Schedule:**  
+Students will work in teams. Each week will focus on one data project, with projects possibly used for multiple weeks. Topics will tend to match material covered in the methods (Stat 601/602) and/or theory (Stat 609/610) courses.  
+
+*Initial weeks* will focus on small group data analysis, with sharing internal to these groups. The group work will emphasize understanding design and assumptions as well as informative graphics that show data relationships in ways that lead to insight about design, assumptions and possible analysis.
+
+*Middle segment* of the course will involve deeper investigation of one or two data projects. Students will work in groups to develop understanding of project and plan of analysis and interpretation. Projects are completed with a group report and oral presentation to entire class; each group member must participate in developing report and making presentation.
+
+*Final segment* of course involves reevaluation of the data projects based on feedback from peers, both within and among groups. Groups will modify approaches in terms of tool use and presentation of results. This round will involve more attention to the “behind the scenes” issues, involving both technical refinements and deepening of interpretation of findings.

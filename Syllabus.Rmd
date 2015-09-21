@@ -1,41 +1,34 @@
-Tentative Syllabus
-Statistics 628: Data Science Practicum
-Spring 2016 (2 cr)
-Instructor: Brian Yandell
-Phone: 263-3304
-e-mail: brian.yandell@wisc.edu
-Office Hours: Immediately after class
-Course Content 
-Gain experience with statistical theory and methods through data case studies. Student will be able to connect methods concepts to analysis tools for a range of modern statistical methods, especially linear models. Student will be able to understand how theory informs analysis choices, both in terms of experimental design and large sample behavior of statistical instruments. Class meets 1.5 hours per week.
-Large (3 cr): Go from initial, likely vague, description of a corporate large data project to a well-crafted, accessible report, complete with graphics, interpretation and justification for choices. Be able to query corporate leaders about their objectives, and articulate a plan of action. Be able to communicate results clearly and succinctly, first as “elevator speech” to gain access to broader venue for presentation. Be able to follow up with immediate questions and with longer term commitment on project needs as they develop. Class meets 3 hours per day, for days per week, for 4 weeks in Summer Session.
-Learning Objectives
-After completing this course, a student should be able to:
-Connect statistical methods and theory concepts with data intuition using software tools
-Organize small (or large) projects into manageable steps
-Present and argue merits of data analysis using language and visuals accessible to a broad audience
-Develop realistic budget of time and resources for a partially formed data project
-Objectives 1 and 2 (for small projects) primarily concern the small (1 cr) instance of Stat 628; objectives 3 and 4 (and 2 for large projects) are the primary focus of the large (3 cr) instance.
-Computer software: R, SAS and others.
-Readings: Reference materials will be provided online.
-Assignments: There will be periodic assignments. 
-Exams: There will be no exams.
-Grading: Based on 80% homework and 20% class participation.
+Tentative Syllabus  
+**Statistics 628: Data Science Practicum**  
+Instructor: Brian Yandell  
+Phone: 263-3304  
+Email: brian.yandell@wisc.edu
 
-Reading material includes: 
-Boen JR, Zahn DA (1982) The Human Side Statistical Consulting, Lifetime Learning Publications 
-Chatfield C (1988) Problem solving: A statistician's guide, Chapman & Hall/CRC Press 
-Derr J (2000) Statistical Consulting: A Guide to Effective Communication, Duxbury Press 
-Yandell BS (1997) Practical Data Analysis for Designed Experiments, Chapman & Hall/CRC Press 
-See ASA Statistical Consulting Section for more books on statistical methods and journal articles about consulting.Tentative Syllabus
-Statistics 628: Data Science Practicum
-Fall 2015 (1 cr), Spring 2016 (1 cr) and Summer 2016 (3 cr)
-Weekly Schedule (1 cr version)
-Each week will focus on one data project, with projects possibly used for multiple weeks. Topics for week will tend to match material covered or anticipated in the methods (Stat 601/602) and/or theory (Stat 609/610) course. That is, when one-way anova is the focus, then a data project that illustrates will be used.
-Initial weeks will focus on small group data analysis, with sharing internal to these groups. The group work will emphasize understanding design and assumptions as well as informative graphics that show data relationships in ways that lead to insight about design, assumptions and possible analysis.
-Middle segment of the course will involve deeper investigation of two data projects. Students will work in groups to develop understanding of project and plan of analysis and interpretation. Projects are completed with group report and oral presentation to entire class; each group member must participate in developing report and making presentation.
-Final segment of course involves reevaluation of the two data projects based on feedback from peers, both within and among groups. Groups will modify approaches in terms of tool use and presentation of results. This round will involve more attention to the “behind the scenes” issues, involving both technical refinements and deepening of interpretation of findings.
-Weekly Schedule (3 cr version)
-Students will work in teams. Each week will concern a different complex data project. In the case of a very complex big data project for the entire course, each week will focus on different aspect of the project. Meetings will include when possible visits by collaborators knowledgeable with the problem.
-In each week, a team of students are expected to develop a plan during the first day, refine plan and share with each other initial graphics and results on second day, and finalize approach and plan for presentation on third day. Fourth day will be formal presentation of report, both written and oral, with critical feedback by peers, instructor and (when possible) collaborators. Fourth day will also involve recap of key points learned by each team member.
-Grading
-Based on 80% homework and 20% class participation. Students will be evaluated by a series of written homework assignments, each having equal weight. In-class participation will be evaluated by degree of engagement with activities. Group members will provide written evaluation of other team members. Grading will be on a rough curve with expected 50% A, 25% AB, 25% B. A constitutes excellent comprehension; AB indicates strong showing with places for improvement; B signifies a basic but minimal understanding and ability to communicate results. Students performing below graduate level will receive C or lower grade.
+This syllabus applies to different versions of Stat 628 for [Spring](Spring.Rmd) and [Summer](Summer.Rmd).
+
+**Projects:** Go from initial, likely vague, description of a large data project to a well-crafted, accessible report, complete with graphics, interpretation and justification for choices. Students will be able to
+
+* query project meta-information about design and objectives
+* articulate a plan of action
+* communicate results clearly and succinctly
+
+**Learning Objectives:** After completing this course, a student should be able to:
+
+1. Connect statistical methods and theory concepts with data intuition using software tools
+2. Organize small (or large) projects into manageable steps
+3. Present and argue merits of data analysis using language and visuals accessible to a broad audience
+
+**Computer software:** R, SAS and others.  
+**Readings:** Reference materials will be provided online.  
+**Assignments:** There will be periodic assignments.   
+**Exams:** There will be no exams.  
+**Grading:** Based on 80% homework and 20% class participation.  
+Students will be evaluated by a series of written homework assignments, each having equal weight. In-class participation will be evaluated by degree of engagement with activities. Group members will provide written evaluation of other team members. 
+Grading will be on a rough curve with expected 50% A, 25% AB, 25% B. A constitutes excellent comprehension; AB indicates strong showing with places for improvement; B signifies a basic but minimal understanding and ability to communicate results. Students performing below graduate level will receive C or lower grade.
+
+**Reading material may include:**  
+Boen JR, Zahn DA (1982) The Human Side Statistical Consulting, Lifetime Learning Publications  
+Chatfield C (1988) Problem solving: A statistician's guide, Chapman & Hall/CRC Press  
+Derr J (2000) Statistical Consulting: A Guide to Effective Communication, Duxbury Press  
+Yandell BS (1997) Practical Data Analysis for Designed Experiments, Chapman & Hall/CRC Press  
+See ASA Statistical Consulting Section for more books on statistical methods and journal articles about consulting.  
