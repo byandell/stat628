@@ -19,7 +19,7 @@
 * ChinaAirDaily
 * US StateAirNet in China |  Beijing | Shanghai | Historical Data
 * Greenpeace Guide to China Air Quality Data
-* CNPM2.5: Beijing | Xi’an | Chengdu | Changsha | Shanghai
+* [CNPM2.5](http://www.cnpm25.cn): Beijing | Xi’an | Chengdu | Changsha | Shanghai
 * China Air Quality through Photos | Beijing
 * China Air Quality Index World Map 
 * Beijing Air Pollution & Beijing Map
@@ -35,4 +35,3 @@
 
 * http://www.tceq.texas.gov/agency/data/pm25.html 
 * http://airmonitoring.utah.gov/dataarchive/archpm25.htm 
-
