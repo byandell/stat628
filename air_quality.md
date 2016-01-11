@@ -9,10 +9,9 @@
 * http://data.worldbank.org/data-catalog/climate-change 
 * http://data.un.org/Explorer.aspx?d=UNODC (see greenhouse gas)
 * http://newsroom.unfccc.int 
-
-** http://unfccc.int/ghg_data/items/3800.php 
-** http://unfccc.int/ghg_data/ghg_data_unfccc/items/4146.php 
-** http://unfccc.int/ghg_data/ghg_data_non_unfccc/items/3170.php 
+..* http://unfccc.int/ghg_data/items/3800.php 
+..* http://unfccc.int/ghg_data/ghg_data_unfccc/items/4146.php 
+..* http://unfccc.int/ghg_data/ghg_data_non_unfccc/items/3170.php 
 
 ## China Air Quality
 
@@ -26,10 +25,14 @@
 * Beijing Air Pollution & Beijing Map
 * http://english.cntv.cn/special/pm25/Homepage/index.shtml 
 * http://www.pm25s.com/en/ 
+
+#### GitHub Code
+
 * https://github.com/ekohe/pm25 
 * https://github.com/Xuhao/china_aqi 
 
 ## US Air Quality
-http://www.tceq.texas.gov/agency/data/pm25.html 
-http://airmonitoring.utah.gov/dataarchive/archpm25.htm 
+
+* http://www.tceq.texas.gov/agency/data/pm25.html 
+* http://airmonitoring.utah.gov/dataarchive/archpm25.htm 
 
