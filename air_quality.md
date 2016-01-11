@@ -24,7 +24,7 @@
 * China Air Quality Index World Map 
 * Beijing Air Pollution & Beijing Map
 * http://english.cntv.cn/special/pm25/Homepage/index.shtml 
-* http://www.pm25s.com/en/ 
+* http://www.pm25s.com/en/ & http://www.pm25.in/
 
 #### GitHub Code
 
