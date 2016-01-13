@@ -13,9 +13,7 @@
 * [iTunes App for China Air Quality](https://itunes.apple.com/us/app/china-air-quality-index/id477700080)
 * [China Air Quality Index](http://aqicn.org): [World Map](http://aqicn.org/map/world/cn/) | [Beijing Map](http://aqicn.org/city/beijing/)
 * http://www.pm25s.com/en/ & http://www.pm25.in/
-
-* [US StateAirNet in China](http://stateair.net) | [Beijing](http://beijing.usembassy-china.org.cn/aqirecent3.html) | [Shanghai](http://shanghai.usembassy-china.org.cn/airmonitor.html) | [Historical Data](http://www.stateair.net/web/historical/1/1.html)
-Data](http://www.greenpeace.org.uk/newsdesk/energy/data/briefing-where-find-data-chinas-pollution-problem)
+* [US StateAirNet in China](http://stateair.net): [Beijing](http://beijing.usembassy-china.org.cn/aqirecent3.html) | [Shanghai](http://shanghai.usembassy-china.org.cn/airmonitor.html) | [Historical Data](http://www.stateair.net/web/historical/1/1.html)
 * [CNPM2.5](http://www.cnpm25.cn): [Beijing](http://www.cnpm25.cn/city/beijing.html) | [Xi’an](http://www.cnpm25.cn/city/xian.html) | [Chengdu](http://www.cnpm25.cn/city/chengdu.html) | [Changsha](http://www.cnpm25.cn/city/changsha.html) | [Shanghai](http://www.cnpm25.cn/city/shanghai.html)
 
 * [China Air Quality through Photos](http://www.thatsmags.com) | [Beijing](http://young-0.com/airquality/)
