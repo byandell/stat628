@@ -5,9 +5,8 @@
 * [CAIT](http://cait.wri.org)
 * [World Bank](http://data.worldbank.org): [PM2.5](http://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3) | [Climate Change Data](http://data.worldbank.org/data-catalog/climate-change) 
 * [UN Data](http://data.un.org/Explorer.aspx?d=UNODC): [UN Framework Conventions on Climate Change](http://newsroom.unfccc.int)
-  * http://unfccc.int/ghg_data/items/3800.php 
-  * http://unfccc.int/ghg_data/ghg_data_unfccc/items/4146.php 
-  * http://unfccc.int/ghg_data/ghg_data_non_unfccc/items/3170.php 
+  * [Greenhouse Gas Data](http://unfccc.int/ghg_data/items/3800.php)
+  * [External Links](http://unfccc.int/ghg_data/ghg_data_non_unfccc/items/3170.php)
 
 ## China Air Quality
 
