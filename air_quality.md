@@ -7,6 +7,8 @@
 * [UN Data](http://data.un.org/Explorer.aspx?d=UNODC): [UN Framework Conventions on Climate Change](http://newsroom.unfccc.int)
   * [Greenhouse Gas Data](http://unfccc.int/ghg_data/items/3800.php)
   * [External Links](http://unfccc.int/ghg_data/ghg_data_non_unfccc/items/3170.php)
+* [Significance: The Volkswagen Scandal](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00861.x/abstract)
+ 
 
 ## China Air Quality
 
@@ -20,6 +22,7 @@
 * [CNTV: PM2.5 Invisible Killer](http://english.cntv.cn/special/pm25/Homepage/index.shtml)
 * [Earth Trends China](http://earthtrends.wri.org/geography/china)
 * [Greenpeace Guide to China Air Quality](http://www.greenpeace.org.uk/newsdesk/energy/data/briefing-where-find-data-chinas-pollution-problem)
+* [Washington Post: Documentary Video Goes Viral](https://www.washingtonpost.com/news/energy-environment/wp/2015/03/16/this-documentary-went-viral-in-china-then-it-was-censored-it-wont-be-forgotten/)
 * [Bloomberg: China to Increase Wind, Solar 21% in 2016](http://www.bloomberg.com/news/articles/2015-12-30/china-plans-to-raise-wind-solar-power-capacity-by-21-in-2016)
 
 #### GitHub Code (uses pm25.in and stateair.net)
