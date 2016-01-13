@@ -24,6 +24,7 @@
 * [Greenpeace Guide to China Air Quality](http://www.greenpeace.org.uk/newsdesk/energy/data/briefing-where-find-data-chinas-pollution-problem)
 * [Washington Post: Documentary Video Goes Viral](https://www.washingtonpost.com/news/energy-environment/wp/2015/03/16/this-documentary-went-viral-in-china-then-it-was-censored-it-wont-be-forgotten/)
 * [Bloomberg: China to Increase Wind, Solar 21% in 2016](http://www.bloomberg.com/news/articles/2015-12-30/china-plans-to-raise-wind-solar-power-capacity-by-21-in-2016)
+* [Think Global Green: China](http://www.thinkglobalgreen.org/CHINA.html)
 
 #### GitHub Code (uses pm25.in and stateair.net)
 
