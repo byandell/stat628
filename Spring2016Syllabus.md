@@ -18,5 +18,5 @@ Reading material may include:
 * Boen JR, Zahn DA (1982) The Human Side Statistical Consulting, Lifetime Learning Publications
 * Chatfield C (1988) Problem solving: A statistician's guide, Chapman & Hall/CRC Press
 * Derr J (2000) Statistical Consulting: A Guide to Effective Communication, Duxbury Press
-* Yandell BS (1997) Practical Data Analysis for Designed Experiments, Chapman & Hall/CRC Press  
-See ASA Statistical Consulting Section for more books on statistical methods and journal articles about consulting.
+* Yandell BS (1997) Practical Data Analysis for Designed Experiments, Chapman & Hall/CRC Press
+* See [ASA Statistical Consulting Section](http://community.amstat.org/cnsl/resources1/newitem1) for more books on statistical methods and journal articles about consulting.
