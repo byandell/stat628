@@ -1,5 +1,4 @@
-Statistics 628: Data Science Practicum, Spring 2016, Thursdays 1-2:15pm, 133 SMI
-
+Statistics 628: Data Science Practicum, Spring 2016, Thursdays 1-2:15pm, 133 SMI  
 Instructor: Brian Yandell (263-3304, brian.yandell@wisc.edu)
  
 Learning Objectives: After completing this course, a student should be able to:
@@ -8,8 +7,7 @@ Learning Objectives: After completing this course, a student should be able to:
 * Present and argue merits of data analysis using language and visuals accessible to a broad audience
 * Connect data analysis with theory and methods to justify approach
 
-Projects: Go from initial, likely vague, description of a large data project to a well-crafted, accessible report, complete with graphics, interpretation and justification for choices. Students will be able to query project meta-information about design and objectives articulate a plan of action communicate results clearly and succinctly.
-
+Projects: Go from initial, likely vague, description of a large data project to a well-crafted, accessible report, complete with graphics, interpretation and justification for choices. Students will be able to query project meta-information about design and objectives articulate a plan of action communicate results clearly and succinctly.  
 Schedule: Students will work in teams. Work will be a balance of the science and practice of data science. The science will involve critical assessment of literature, scope and concepts emerging in this field. Practice involves discovery for multiple data projects, with projects possibly lasting multiple weeks. Projects use small groups for data analysis and sharing. Group work will emphasize understanding design and assumptions as well as informative graphics that show data relationships in ways that lead to insight about design, assumptions and possible analysis. Students will work in groups to develop understanding of project and plan of analysis and interpretation. Projects are completed with a group report and oral presentation to entire class; each group member must participate in developing report and making presentation. Along the way, groups will report progress to the group informally each week. Final segment of course involves reevaluation of selected data projects based on feedback from peers, both within and among groups. Groups will modify approaches in terms of tool use and presentation of results. This round will involve more attention to the “behind the scenes” issues, involving both technical refinements and deepening of interpretation of findings.
 
 Computer software: R, SAS and others.
