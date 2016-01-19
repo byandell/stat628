@@ -14,7 +14,7 @@ Instructor: Brian Yandell (263-3304, brian.yandell@wisc.edu)
 **Assignments:** There will be periodic assignments.  
 **Exams:** There will be no exams.  
 **Grading:** Based on 80% homework and 20% class participation. Students will be evaluated by a series of written homework assignments, each having equal weight. In-class participation will be evaluated by degree of engagement with activities. Group members will provide written evaluation of other team members. Grading will be on a rough curve with expected 50% A, 25% AB, 25% B. A constitutes excellent comprehension; AB indicates strong showing with places for improvement; B signifies a basic but minimal understanding and ability to communicate results. Students performing below graduate level will receive C or lower grade.  
-Reading material may include:  
+**Reading material may include:**  
 * Boen JR, Zahn DA (1982) The Human Side Statistical Consulting, Lifetime Learning Publications
 * Chatfield C (1988) Problem solving: A statistician's guide, Chapman & Hall/CRC Press
 * Derr J (2000) Statistical Consulting: A Guide to Effective Communication, Duxbury Press
