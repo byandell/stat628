@@ -1,7 +1,7 @@
 ## Global Greenhouse Gas Data Sets
 
 * [Earth Trends](http://earthtrends.wri.org): [Data Sets](http://earthtrends.wri.org/resources/data_sets)
-* [CIESIN](http://sedac.ciesin.columbia.edu): [Data Sets](http://sedac.ciesin.columbia.edu/data/sets/browse) | [PM2.5 2001-2010](http://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-avg-pm2-5-2001-2010)
+* [CIESIN](http://sedac.ciesin.columbia.edu): [Data Sets](http://sedac.ciesin.columbia.edu/data/sets/browse) | [PM2.5 2001-2010](http://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-avg-pm2-5-2001-2010) | [World Map](http://sedac.ciesin.columbia.edu/data/set/sdei-global-annual-avg-pm2-5-2001-2010)
 * [CAIT](http://cait.wri.org)
 * [World Bank](http://data.worldbank.org): [PM2.5](http://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3) | [Climate Change Data](http://data.worldbank.org/data-catalog/climate-change) 
 * [UN Data](http://data.un.org/Explorer.aspx?d=UNODC): [UN Framework Conventions on Climate Change](http://newsroom.unfccc.int)
