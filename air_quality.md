@@ -18,6 +18,8 @@
 * [CNPM2.5](http://www.cnpm25.cn): [Beijing](http://www.cnpm25.cn/city/beijing.html) | [Xi’an](http://www.cnpm25.cn/city/xian.html) | [Chengdu](http://www.cnpm25.cn/city/chengdu.html) | [Changsha](http://www.cnpm25.cn/city/changsha.html) | [Shanghai](http://www.cnpm25.cn/city/shanghai.html)
 * http://www.pm25s.com/en/ & http://www.pm25.in/
 
+#### News about Air Quality in China
+
 * [China Air Quality through Photos](http://www.thatsmags.com) | [Beijing](http://young-0.com/airquality/)
 * [CNTV: PM2.5 Invisible Killer](http://english.cntv.cn/special/pm25/Homepage/index.shtml)
 * [Earth Trends China](http://earthtrends.wri.org/geography/china)
