@@ -1,5 +1,6 @@
 **Statistics 628: Data Science Practicum**, Spring 2016, Thursdays 1-2:15pm, 133 SMI  
-Instructor: Brian Yandell (263-3304, brian.yandell@wisc.edu)
+Instructor: Brian Yandell (263-3304, brian.yandell@wisc.edu)  
+Office Hours: Tue/Thu 11:30, 1120 MSC
  
 **Learning Objectives:** After completing this course, a student should be able to:
 * Connect statistical methods and theory concepts with data intuition using software tools
