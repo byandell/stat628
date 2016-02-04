@@ -35,7 +35,7 @@
 * https://github.com/ekohe/pm25 
 * https://github.com/Xuhao/china_aqi 
 * https://github.com/Pana/PM25.in
-* http://www.pm25s.com/en/ & http://www.pm25.in/
+* http://www.pm25s.com/en/ & http://www.pm25.in/ ([API Info](http://www.pm25.in/api_doc) | [in English](https://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.pm25.in/api_doc&prev=search))
 
 ## US Air Quality
 
