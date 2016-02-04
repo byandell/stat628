@@ -20,6 +20,7 @@
 
 #### News about Air Quality in China
 
+* [Estimation of Citywide Air Pollution in Beijing (2013 PLoS ONE)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3539974/)
 * [China Air Quality through Photos](http://www.thatsmags.com) | [Beijing](http://young-0.com/airquality/)
 * [CNTV: PM2.5 Invisible Killer](http://english.cntv.cn/special/pm25/Homepage/index.shtml)
 * [Earth Trends China](http://earthtrends.wri.org/geography/china)
